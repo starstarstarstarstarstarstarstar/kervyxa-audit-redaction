@@ -1,0 +1,11 @@
+{
+  "name": "kervyxa-audit-redaction",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Kervyxa's admin audit-log redaction, extracted so the next fix can be bought as an Outcome Contract on kervyxa.com",
+  "main": "audit-redaction.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
